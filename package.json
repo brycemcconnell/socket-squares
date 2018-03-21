@@ -1,0 +1,9 @@
+{
+  "name": "socket-squares",
+  "version": "0.0.1",
+  "description": "Moving squares on server",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
